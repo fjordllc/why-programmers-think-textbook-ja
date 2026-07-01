@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 430" font-family="sans-serif" role="img" aria-label="問題から文化までの六つの拍子が円環し、また次の問題へ戻る図">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#3a6ea5"/></marker><marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#b23a48"/></marker><marker id="arg" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#52606d"/></marker></defs>
+<circle cx="310" cy="225" r="58" fill="#fff" stroke="#b8c2cc" stroke-width="1"/>
+<text x="310" y="219" text-anchor="middle" font-size="17" font-weight="bold" fill="#52606d">六つの拍子</text>
+<text x="310" y="241" text-anchor="middle" font-size="13" font-weight="normal" fill="#52606d">何度も回る</text>
+<rect x="248.0" y="65.0" width="124" height="40" rx="20" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="310.0" y="91.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2933">① 問題</text>
+<rect x="369.24355652982143" y="135.0" width="124" height="40" rx="20" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="431.24355652982143" y="161.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2933">② 最初の答え</text>
+<rect x="369.24355652982143" y="275.0" width="124" height="40" rx="20" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="431.24355652982143" y="301.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2933">③ 失敗</text>
+<rect x="248.0" y="345.0" width="124" height="40" rx="20" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="310.0" y="371.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2933">④ 議論</text>
+<rect x="126.75644347017857" y="275.0" width="124" height="40" rx="20" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="188.75644347017857" y="301.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2933">⑤ 改善</text>
+<rect x="126.7564434701786" y="135.0" width="124" height="40" rx="20" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="188.7564434701786" y="161.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2933">⑥ 文化</text>
+<line x1="367.15767664977295" y1="98.0" x2="370.62177826491074" y2="140.0" stroke="#3a6ea5" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="431.24355652982143" y1="181.0" x2="431.24355652982143" y2="265.0" stroke="#3a6ea5" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="374.0858798800485" y1="308.0" x2="370.6217782649107" y2="350.0" stroke="#3a6ea5" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="252.84232335022705" y1="352.0" x2="249.37822173508928" y2="310.0" stroke="#3a6ea5" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="188.7564434701786" y1="269.0" x2="188.75644347017857" y2="185.0" stroke="#3a6ea5" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="245.91412011995155" y1="142.0" x2="249.3782217350893" y2="100.0" stroke="#3a6ea5" stroke-width="2" marker-end="url(#ar)"/>
+</svg>

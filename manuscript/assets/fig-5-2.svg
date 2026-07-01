@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" font-family="sans-serif" role="img" aria-label="変更を提案として差し出し、読んで意見をつけ、納得して取り込むまでの流れ">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#3a6ea5"/></marker><marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#b23a48"/></marker><marker id="arg" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#52606d"/></marker></defs>
+<rect x="40.0" y="70" width="150" height="60" rx="10" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="115.0" y="107" text-anchor="middle" font-size="17" font-weight="bold" fill="#1f2933">変更</text>
+<line x1="194.0" y1="100" x2="212.66666666666666" y2="100" stroke="#3a6ea5" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="216.66666666666666" y="70" width="150" height="60" rx="10" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="291.66666666666663" y="107" text-anchor="middle" font-size="17" font-weight="bold" fill="#3a6ea5">提案</text>
+<line x1="370.66666666666663" y1="100" x2="389.3333333333333" y2="100" stroke="#3a6ea5" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="393.3333333333333" y="70" width="150" height="60" rx="10" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="468.3333333333333" y="107" text-anchor="middle" font-size="17" font-weight="bold" fill="#3a6ea5">レビュー</text>
+<line x1="547.3333333333333" y1="100" x2="565.9999999999999" y2="100" stroke="#3a6ea5" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="570.0" y="70" width="150" height="60" rx="10" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="645.0" y="107" text-anchor="middle" font-size="17" font-weight="bold" fill="#1f2933">取り込む</text>
+</svg>

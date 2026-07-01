@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 562" font-family="sans-serif" role="img" aria-label="九つの不自由が、対応する九つの自由に変わる本書の地図">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#3a6ea5"/></marker><marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#b23a48"/></marker><marker id="arg" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#52606d"/></marker></defs>
+<text x="239.0" y="44" text-anchor="middle" font-size="22" font-weight="bold" fill="#1f2933">不自由</text>
+<text x="613.0" y="44" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a6ea5">自由</text>
+<text x="426.0" y="44" text-anchor="middle" font-size="13" font-weight="normal" fill="#52606d">勝ち取る</text>
+<line x1="40" y1="60" x2="740" y2="60" stroke="#cdd5df" stroke-width="1"/>
+<circle cx="48" cy="113.0" r="15" fill="#3a6ea5" stroke="none" stroke-width="1"/>
+<text x="48" y="118.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">1</text>
+<rect x="96" y="94" width="286" height="38" rx="0" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="110" y="119.0" text-anchor="start" font-size="17" font-weight="normal" fill="#1f2933">複雑さに飲まれる</text>
+<line x1="394" y1="113.0" x2="452" y2="113.0" stroke="#3a6ea5" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="470" y="94" width="286" height="38" rx="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="484" y="119.0" text-anchor="start" font-size="17" font-weight="bold" fill="#3a6ea5">手を入れ続けられる</text>
+<circle cx="48" cy="163.0" r="15" fill="#3a6ea5" stroke="none" stroke-width="1"/>
+<text x="48" y="168.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">2</text>
+<rect x="96" y="144" width="286" height="38" rx="0" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="110" y="169.0" text-anchor="start" font-size="17" font-weight="normal" fill="#1f2933">半年後には読めない</text>
+<line x1="394" y1="163.0" x2="452" y2="163.0" stroke="#3a6ea5" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="470" y="144" width="286" height="38" rx="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="484" y="169.0" text-anchor="start" font-size="17" font-weight="bold" fill="#3a6ea5">読まれる</text>
+<circle cx="48" cy="213.0" r="15" fill="#3a6ea5" stroke="none" stroke-width="1"/>
+<text x="48" y="218.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">3</text>
+<rect x="96" y="194" width="286" height="38" rx="0" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="110" y="219.0" text-anchor="start" font-size="17" font-weight="normal" fill="#1f2933">先に固めると動けない</text>
+<line x1="394" y1="213.0" x2="452" y2="213.0" stroke="#3a6ea5" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="470" y="194" width="286" height="38" rx="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="484" y="219.0" text-anchor="start" font-size="17" font-weight="bold" fill="#3a6ea5">変えられる</text>
+<circle cx="48" cy="263.0" r="15" fill="#3a6ea5" stroke="none" stroke-width="1"/>
+<text x="48" y="268.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">4</text>
+<rect x="96" y="244" width="286" height="38" rx="0" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="110" y="269.0" text-anchor="start" font-size="17" font-weight="normal" fill="#1f2933">動くのに誰も触れない</text>
+<line x1="394" y1="263.0" x2="452" y2="263.0" stroke="#3a6ea5" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="470" y="244" width="286" height="38" rx="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="484" y="269.0" text-anchor="start" font-size="17" font-weight="bold" fill="#3a6ea5">触れ続けられる</text>
+<circle cx="48" cy="313.0" r="15" fill="#3a6ea5" stroke="none" stroke-width="1"/>
+<text x="48" y="318.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">5</text>
+<rect x="96" y="294" width="286" height="38" rx="0" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="110" y="319.0" text-anchor="start" font-size="17" font-weight="normal" fill="#1f2933">一人が抜けると触れない</text>
+<line x1="394" y1="313.0" x2="452" y2="313.0" stroke="#3a6ea5" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="470" y="294" width="286" height="38" rx="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="484" y="319.0" text-anchor="start" font-size="17" font-weight="bold" fill="#3a6ea5">一人に縛られない</text>
+<circle cx="48" cy="363.0" r="15" fill="#3a6ea5" stroke="none" stroke-width="1"/>
+<text x="48" y="368.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">6</text>
+<rect x="96" y="344" width="286" height="38" rx="0" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="110" y="369.0" text-anchor="start" font-size="17" font-weight="normal" fill="#1f2933">道具の中身を直せない</text>
+<line x1="394" y1="363.0" x2="452" y2="363.0" stroke="#3a6ea5" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="470" y="344" width="286" height="38" rx="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="484" y="369.0" text-anchor="start" font-size="17" font-weight="bold" fill="#3a6ea5">直し、見て、配る</text>
+<circle cx="48" cy="413.0" r="15" fill="#3a6ea5" stroke="none" stroke-width="1"/>
+<text x="48" y="418.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">7</text>
+<rect x="96" y="394" width="286" height="38" rx="0" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="110" y="419.0" text-anchor="start" font-size="17" font-weight="normal" fill="#1f2933">「正しい一つ」に縛られる</text>
+<line x1="394" y1="413.0" x2="452" y2="413.0" stroke="#3a6ea5" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="470" y="394" width="286" height="38" rx="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="484" y="419.0" text-anchor="start" font-size="17" font-weight="bold" fill="#3a6ea5">選び続ける</text>
+<circle cx="48" cy="463.0" r="15" fill="#3a6ea5" stroke="none" stroke-width="1"/>
+<text x="48" y="468.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">8</text>
+<rect x="96" y="444" width="286" height="38" rx="0" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="110" y="469.0" text-anchor="start" font-size="17" font-weight="normal" fill="#1f2933">言語が許すことしか考えられない</text>
+<line x1="394" y1="463.0" x2="452" y2="463.0" stroke="#3a6ea5" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="470" y="444" width="286" height="38" rx="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="484" y="469.0" text-anchor="start" font-size="17" font-weight="bold" fill="#3a6ea5">価値観で作り直す</text>
+<circle cx="48" cy="513.0" r="15" fill="#3a6ea5" stroke="none" stroke-width="1"/>
+<text x="48" y="518.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">9</text>
+<rect x="96" y="494" width="286" height="38" rx="0" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="110" y="519.0" text-anchor="start" font-size="17" font-weight="normal" fill="#1f2933">持ち主に縛られ、届かない</text>
+<line x1="394" y1="513.0" x2="452" y2="513.0" stroke="#3a6ea5" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="470" y="494" width="286" height="38" rx="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="484" y="519.0" text-anchor="start" font-size="17" font-weight="bold" fill="#3a6ea5">許可なく届ける</text>
+</svg>

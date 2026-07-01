@@ -1,0 +1,23 @@
+[book]
+authors = ["FjordBootCamp"]
+language = "ja"
+multilingual = false
+src = "manuscript"
+title = "FBC Press: プログラマーはなぜそう考えるのか"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+additional-css = ["theme/mdbook-book-core.css", "theme/mdbook-book-jp.css", "theme/why-programmers-think.css"]
+additional-js = ["theme/textbook-footer.js"]
+no-section-label = true
+
+[output.html.search]
+enable = true
+use-boolean-and = true
+
+[output.html.fold]
+enable = true
+level = 1

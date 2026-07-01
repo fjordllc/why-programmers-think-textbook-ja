@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" font-family="sans-serif" role="img" aria-label="怖いから触らず、触らないから古びて、さらに怖くなる悪循環の環">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#3a6ea5"/></marker><marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#b23a48"/></marker><marker id="arg" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#52606d"/></marker></defs>
+<text x="260" y="221" text-anchor="middle" font-size="16" font-weight="bold" fill="#b23a48">悪循環</text>
+<rect x="200.0" y="73.0" width="120" height="44" rx="22" fill="#f6e7e9" stroke="#d8a2ab" stroke-width="1.2"/>
+<text x="260.0" y="101.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2933">怖い</text>
+<rect x="320.0" y="193.0" width="120" height="44" rx="22" fill="#f6e7e9" stroke="#d8a2ab" stroke-width="1.2"/>
+<text x="380.0" y="221.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2933">触らない</text>
+<rect x="200.0" y="313.0" width="120" height="44" rx="22" fill="#f6e7e9" stroke="#d8a2ab" stroke-width="1.2"/>
+<text x="260.0" y="341.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2933">古びる</text>
+<rect x="80.0" y="193.00000000000003" width="120" height="44" rx="22" fill="#f6e7e9" stroke="#c9727f" stroke-width="1.2"/>
+<text x="140.0" y="221.00000000000003" text-anchor="middle" font-size="15" font-weight="bold" fill="#b23a48">もっと怖い</text>
+<line x1="305.25483399593907" y1="113.38477631085024" x2="331.9167388793148" y2="193.78679656440357" stroke="#b23a48" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="334.74516600406093" y1="233.38477631085024" x2="308.0832611206852" y2="313.7867965644036" stroke="#b23a48" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="214.74516600406093" y1="316.6152236891498" x2="188.08326112068525" y2="236.21320343559645" stroke="#b23a48" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="185.25483399593904" y1="196.6152236891498" x2="211.91673887931478" y2="116.21320343559643" stroke="#b23a48" stroke-width="2" marker-end="url(#arr)"/>
+</svg>

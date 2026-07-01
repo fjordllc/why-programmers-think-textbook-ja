@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 230" font-family="sans-serif" role="img" aria-label="リファクタリングは外の動きを変えず内側だけ整え、作り直しはゼロから組み直す対比">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#3a6ea5"/></marker><marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#b23a48"/></marker><marker id="arg" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#52606d"/></marker></defs>
+<rect x="50" y="64" width="300" height="140" rx="10" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="200" y="102" text-anchor="middle" font-size="18" font-weight="bold" fill="#3a6ea5">リファクタリング</text>
+<text x="200" y="142" text-anchor="middle" font-size="14" font-weight="normal" fill="#1f2933">外の動き：変えない</text>
+<text x="200" y="174" text-anchor="middle" font-size="14" font-weight="normal" fill="#1f2933">内側だけ整える</text>
+<rect x="370" y="64" width="300" height="140" rx="10" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="520" y="102" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2933">作り直し</text>
+<text x="520" y="142" text-anchor="middle" font-size="14" font-weight="normal" fill="#52606d">ゼロから組み直す</text>
+<text x="520" y="174" text-anchor="middle" font-size="14" font-weight="normal" fill="#b23a48">動きも変わる・新バグ</text>
+</svg>

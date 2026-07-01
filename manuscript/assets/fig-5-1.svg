@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="sans-serif" role="img" aria-label="知識が一人に集中した状態と、その人が抜けて誰も触れなくなる状態の前後比較">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#3a6ea5"/></marker><marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#b23a48"/></marker><marker id="arg" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#52606d"/></marker></defs>
+<line x1="380.0" y1="60" x2="380.0" y2="300" stroke="#cdd5df" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="200" y="44" text-anchor="middle" font-size="16" font-weight="bold" fill="#52606d">強みに見える</text>
+<text x="560" y="44" text-anchor="middle" font-size="16" font-weight="bold" fill="#b23a48">抜けた瞬間、触れない</text>
+<rect x="60" y="148" width="150" height="54" rx="8" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="135" y="172" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a6ea5">決済コードを</text>
+<text x="135" y="190" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a6ea5">一人が握る</text>
+<circle cx="300" cy="105" r="15" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1"/>
+<line x1="285" y1="105" x2="214" y2="175" stroke="#52606d" stroke-width="1.6" marker-end="url(#arg)"/>
+<circle cx="300" cy="170" r="15" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1"/>
+<line x1="285" y1="170" x2="214" y2="175" stroke="#52606d" stroke-width="1.6" marker-end="url(#arg)"/>
+<circle cx="300" cy="235" r="15" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1"/>
+<line x1="285" y1="235" x2="214" y2="175" stroke="#52606d" stroke-width="1.6" marker-end="url(#arg)"/>
+<rect x="470" y="148" width="150" height="54" rx="8" fill="#f0f2f5" stroke="#c7ccd3" stroke-width="1.2"/>
+<text x="545" y="178" text-anchor="middle" font-size="13" font-weight="normal" fill="#52606d">？ 誰も中を知らない</text>
+<line x1="660" y1="150" x2="700" y2="200" stroke="#b23a48" stroke-width="3"/>
+<line x1="700" y1="150" x2="660" y2="200" stroke="#b23a48" stroke-width="3"/>
+<text x="680" y="140" text-anchor="middle" font-size="12" font-weight="bold" fill="#b23a48">抜けた</text>
+<circle cx="430" cy="105" r="15" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1"/>
+<line x1="445" y1="105" x2="520" y2="175" stroke="#c7ccd3" stroke-width="1.6" stroke-dasharray="4 4"/>
+<circle cx="430" cy="170" r="15" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1"/>
+<line x1="445" y1="170" x2="520" y2="175" stroke="#c7ccd3" stroke-width="1.6" stroke-dasharray="4 4"/>
+<circle cx="430" cy="235" r="15" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1"/>
+<line x1="445" y1="235" x2="520" y2="175" stroke="#c7ccd3" stroke-width="1.6" stroke-dasharray="4 4"/>
+<text x="545" y="270" text-anchor="middle" font-size="13" font-weight="bold" fill="#b23a48">触れないコードの山</text>
+</svg>

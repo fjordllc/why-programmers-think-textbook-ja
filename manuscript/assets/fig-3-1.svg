@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 410" font-family="sans-serif" role="img" aria-label="先に決めきる量が少なすぎても多すぎても痛手が増え、中間で最小になるU字の関係">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#3a6ea5"/></marker><marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#b23a48"/></marker><marker id="arg" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#52606d"/></marker></defs>
+<line x1="110" y1="330" x2="650" y2="330" stroke="#52606d" stroke-width="1.5"/>
+<line x1="110" y1="330" x2="110" y2="86" stroke="#52606d" stroke-width="1.5"/>
+<text x="650" y="356" text-anchor="end" font-size="14" font-weight="normal" fill="#52606d">事前に決める量 →</text>
+<text x="102" y="80" text-anchor="start" font-size="14" font-weight="normal" fill="#52606d">変化が来たときの痛手</text>
+<polyline points="110.0,135.6 123.5,156.6 137.0,176.4 150.5,195.0 164.0,212.4 177.5,228.6 191.0,243.6 204.5,257.4 218.0,270.0 231.5,281.4 245.0,291.6 258.5,300.6 272.0,308.4 285.5,315.0 299.0,320.4 312.5,324.6 326.0,327.6 339.5,329.4 353.0,330.0 366.5,329.4 380.0,327.6 393.5,324.6 407.0,320.4 420.5,315.0 434.0,308.4 447.5,300.6 461.0,291.6 474.5,281.4 488.0,270.0 501.5,257.4 515.0,243.6 528.5,228.6 542.0,212.4 555.5,195.0 569.0,176.4 582.5,156.6 596.0,135.6 609.5,113.4 623.0,90.0 636.5,90.0 650.0,90.0" fill="none" stroke="#3a6ea5" stroke-width="3"/>
+<circle cx="110" cy="135.6" r="5" fill="#b23a48" stroke="none" stroke-width="1"/>
+<text x="118" y="127.6" text-anchor="start" font-size="13" font-weight="normal" fill="#b23a48">決めなさすぎ＝迷子</text>
+<circle cx="650" cy="90.0" r="5" fill="#b23a48" stroke="none" stroke-width="1"/>
+<text x="642" y="82.0" text-anchor="end" font-size="13" font-weight="normal" fill="#b23a48">決めすぎ＝動けない</text>
+<circle cx="353.0" cy="330" r="6" fill="#3a6ea5" stroke="none" stroke-width="1"/>
+<text x="353.0" y="356" text-anchor="middle" font-size="13" font-weight="bold" fill="#3a6ea5">ちょうど＝手を入れられる形</text>
+</svg>

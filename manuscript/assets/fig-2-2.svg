@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 314" font-family="sans-serif" role="img" aria-label="名前が語るほど、中身を読む必要が減ることを三段で示す図">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#3a6ea5"/></marker><marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#b23a48"/></marker><marker id="arg" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#52606d"/></marker></defs>
+<text x="40" y="46" text-anchor="start" font-size="16" font-weight="bold" fill="#1f2933">名前とひとこと</text>
+<text x="660" y="46" text-anchor="end" font-size="15" font-weight="normal" fill="#52606d">中を読む必要</text>
+<line x1="40" y1="56" x2="680" y2="56" stroke="#cdd5df" stroke-width="1"/>
+<rect x="40" y="84" width="350" height="58" rx="8" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="58" y="109.0" text-anchor="start" font-size="19" font-weight="bold" fill="#1f2933" font-family="ui-monospace,monospace">f</text>
+<text x="58" y="133.0" text-anchor="start" font-size="12" font-weight="normal" fill="#52606d">まったく、わからない</text>
+<rect x="420" y="102.0" width="240" height="22" rx="11" fill="#f0f2f5" stroke="#d5dbe2" stroke-width="1.2"/>
+<rect x="420" y="102.0" width="240.0" height="22" rx="11" fill="#b23a48" stroke="none" stroke-width="1.2"/>
+<rect x="40" y="158" width="350" height="58" rx="8" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="58" y="183.0" text-anchor="start" font-size="19" font-weight="bold" fill="#1f2933" font-family="ui-monospace,monospace">getUsers</text>
+<text x="58" y="207.0" text-anchor="start" font-size="12" font-weight="normal" fill="#52606d">半分だけ</text>
+<rect x="420" y="176.0" width="240" height="22" rx="11" fill="#f0f2f5" stroke="#d5dbe2" stroke-width="1.2"/>
+<rect x="420" y="176.0" width="132.0" height="22" rx="11" fill="#52606d" stroke="none" stroke-width="1.2"/>
+<rect x="40" y="232" width="350" height="58" rx="8" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="58" y="257.0" text-anchor="start" font-size="19" font-weight="bold" fill="#3a6ea5" font-family="ui-monospace,monospace">findDormantUsers</text>
+<text x="58" y="281.0" text-anchor="start" font-size="12" font-weight="normal" fill="#52606d">開く前に、わかる</text>
+<rect x="420" y="250.0" width="240" height="22" rx="11" fill="#f0f2f5" stroke="#d5dbe2" stroke-width="1.2"/>
+<rect x="420" y="250.0" width="28.799999999999997" height="22" rx="11" fill="#3a6ea5" stroke="none" stroke-width="1.2"/>
+</svg>

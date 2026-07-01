@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" font-family="sans-serif" role="img" aria-label="勝者を語れるかで、閉じた問いと開いた問いに仕分ける分岐図">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#3a6ea5"/></marker><marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#b23a48"/></marker><marker id="arg" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#52606d"/></marker></defs>
+<rect x="290" y="34" width="140" height="44" rx="8" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="360" y="62" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2933">その論争</text>
+<line x1="360" y1="78" x2="360" y2="104" stroke="#52606d" stroke-width="2" marker-end="url(#arg)"/>
+<polygon points="360,104 470,158 360,212 250,158" fill="#f4e9dc" stroke="#c9a26b" stroke-width="1.5"/>
+<text x="360" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2933">勝者を</text>
+<text x="360" y="174" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2933">語れる？</text>
+<line x1="250" y1="158" x2="150" y2="158" stroke="#52606d" stroke-width="2" marker-end="url(#arg)"/>
+<line x1="150" y1="158" x2="150" y2="250" stroke="#52606d" stroke-width="2" marker-end="url(#arg)"/>
+<text x="200" y="148" text-anchor="middle" font-size="12" font-weight="normal" fill="#52606d">はい</text>
+<line x1="470" y1="158" x2="570" y2="158" stroke="#52606d" stroke-width="2" marker-end="url(#arg)"/>
+<line x1="570" y1="158" x2="570" y2="250" stroke="#52606d" stroke-width="2" marker-end="url(#arg)"/>
+<text x="520" y="148" text-anchor="middle" font-size="12" font-weight="normal" fill="#52606d">いいえ</text>
+<rect x="30" y="252" width="240" height="100" rx="10" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="150" y="292" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2933">閉じた問い</text>
+<text x="150" y="324" text-anchor="middle" font-size="14" font-weight="normal" fill="#52606d">学ぶ（例：goto）</text>
+<rect x="450" y="252" width="240" height="100" rx="10" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="570" y="292" text-anchor="middle" font-size="18" font-weight="bold" fill="#3a6ea5">開いた問い</text>
+<text x="570" y="324" text-anchor="middle" font-size="14" font-weight="normal" fill="#52606d">選ぶ（例：型・タブと空白）</text>
+</svg>

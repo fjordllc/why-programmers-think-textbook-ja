@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 210" font-family="sans-serif" role="img" aria-label="一つの仕事だけをする小さな道具を、パイプでつないで大きな仕事にする流れ">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#3a6ea5"/></marker><marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#b23a48"/></marker><marker id="arg" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#52606d"/></marker></defs>
+<rect x="70" y="70" width="150" height="72" rx="10" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="145" y="104" text-anchor="middle" font-size="17" font-weight="bold" fill="#1f2933">道具 A</text>
+<text x="145" y="128" text-anchor="middle" font-size="12" font-weight="normal" fill="#52606d">一つの仕事</text>
+<rect x="290" y="70" width="150" height="72" rx="10" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="365" y="104" text-anchor="middle" font-size="17" font-weight="bold" fill="#1f2933">道具 B</text>
+<text x="365" y="128" text-anchor="middle" font-size="12" font-weight="normal" fill="#52606d">一つの仕事</text>
+<rect x="510" y="70" width="150" height="72" rx="10" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="585" y="104" text-anchor="middle" font-size="17" font-weight="bold" fill="#1f2933">道具 C</text>
+<text x="585" y="128" text-anchor="middle" font-size="12" font-weight="normal" fill="#52606d">一つの仕事</text>
+<text x="255" y="118" text-anchor="middle" font-size="36" font-weight="bold" fill="#3a6ea5">│</text>
+<text x="475" y="118" text-anchor="middle" font-size="36" font-weight="bold" fill="#3a6ea5">│</text>
+<text x="360.0" y="182" text-anchor="middle" font-size="14" font-weight="normal" fill="#52606d">つなぐと、大きな仕事になる</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="sans-serif" role="img" aria-label="重い標準は高い壁で少数しか参加できず、軽いWebは低い段差で誰でも参加できる対比">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#3a6ea5"/></marker><marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#b23a48"/></marker><marker id="arg" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#52606d"/></marker></defs>
+<line x1="380.0" y1="50" x2="380.0" y2="320" stroke="#cdd5df" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="200" y="42" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2933">重い標準</text>
+<text x="560" y="42" text-anchor="middle" font-size="18" font-weight="bold" fill="#3a6ea5">軽い Web</text>
+<line x1="70" y1="300" x2="360" y2="300" stroke="#52606d" stroke-width="1.5"/>
+<rect x="250" y="120" width="26" height="180" rx="0" fill="#8a95a1" stroke="#6b7580" stroke-width="1.2"/>
+<text x="263" y="110" text-anchor="middle" font-size="12" font-weight="normal" fill="#52606d">高い壁</text>
+<circle cx="110" cy="284" r="11" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1"/>
+<circle cx="150" cy="284" r="11" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1"/>
+<text x="200" y="326" text-anchor="middle" font-size="13" font-weight="normal" fill="#52606d">少数だけが参加できる</text>
+<line x1="410" y1="300" x2="700" y2="300" stroke="#52606d" stroke-width="1.5"/>
+<rect x="548" y="270" width="26" height="30" rx="0" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="561" y="260" text-anchor="middle" font-size="12" font-weight="normal" fill="#3a6ea5">低い段差</text>
+<circle cx="440" cy="284" r="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1"/>
+<circle cx="475" cy="284" r="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1"/>
+<circle cx="510" cy="284" r="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1"/>
+<circle cx="600" cy="284" r="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1"/>
+<circle cx="635" cy="284" r="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1"/>
+<circle cx="670" cy="284" r="11" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1"/>
+<text x="560" y="326" text-anchor="middle" font-size="13" font-weight="bold" fill="#3a6ea5">誰でも参加できる</text>
+</svg>

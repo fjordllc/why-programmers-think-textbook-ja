@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" font-family="sans-serif" role="img" aria-label="コードを直すと名前は追従し、コメントは取り残されて食い違うことの対比">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#3a6ea5"/></marker><marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#b23a48"/></marker><marker id="arg" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#52606d"/></marker></defs>
+<text x="360.0" y="46" text-anchor="middle" font-size="16" font-weight="bold" fill="#52606d">コードを直したとき</text>
+<rect x="60" y="80" width="280" height="110" rx="10" fill="#dce9f2" stroke="#3a6ea5" stroke-width="1.2"/>
+<text x="200" y="126" text-anchor="middle" font-size="19" font-weight="bold" fill="#3a6ea5">名前</text>
+<text x="200" y="162" text-anchor="middle" font-size="15" font-weight="bold" fill="#3a6ea5">○ 一緒に変わる</text>
+<rect x="380" y="80" width="280" height="110" rx="10" fill="#eef1f5" stroke="#b8c2cc" stroke-width="1.2"/>
+<text x="520" y="126" text-anchor="middle" font-size="19" font-weight="bold" fill="#1f2933">コメント</text>
+<text x="520" y="162" text-anchor="middle" font-size="15" font-weight="bold" fill="#b23a48">× 取り残される</text>
+</svg>
