@@ -15,6 +15,7 @@
   - [第8章 言語をつくる、という選択](part4/chapter8.md)
   - [第9章 Web だけが、世界を覆った](part4/chapter9.md)
 - [終章 AI は「当たり前」を作れるのか](epilogue.md)
+- [おわりに](afterword.md)
 
 ---
 
