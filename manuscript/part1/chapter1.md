@@ -99,13 +99,7 @@
 
 **シンプルさとは、複雑さに飲まれず、手を入れ続けられる――という自由だ。**
 
----
-
-### この章の手がかり
-
-- 人: フレデリック・ブルックス（Frederick P. Brooks Jr.）。複雑さには、道具で減らせるものと、問題そのものに含まれるものがあると整理した。
-- 言葉: KISS / DRY / YAGNI。どれも万能の呪文ではなく、複雑さを増やしすぎないための別々の注意だ。
-- 次に読むなら: 付録の用語集で KISS / DRY / YAGNI を見てから、参考文献のブルックスに進むと、この章の芯がつかみやすい。
+この章でフレデリック・ブルックス（Frederick P. Brooks Jr.）が整理したのも、まさにその点だった。複雑さには、道具で減らせるものと、問題そのものに含まれるものがある。そして KISS、DRY、YAGNI もまた、万能の呪文ではなく、複雑さを増やしすぎないための別々の注意として読むと、それぞれが何を戒めているのかが見えてくる。もしここをもう少し掘りたくなったら、付録の用語集でそれぞれの綴りと意味を確かめてから、参考文献のブルックスへ進むと、この章で言いたかったことを追いやすい。
 
 ただし、複雑さを分けただけでは、まだ足りない。
 
@@ -113,4 +107,10 @@
 
 複雑さの次に立ちはだかるのは、**読めなさ**という、もうひとつの不自由だ。
 
-その話は、次の章で。
+その話は、[次の章](chapter2.md)で。
+
+## 参考文献
+
+- [フレデリック・P・ブルックス Jr.『人月の神話』](https://ja.wikipedia.org/wiki/%E4%BA%BA%E6%9C%88%E3%81%AE%E7%A5%9E%E8%A9%B1)
+- [Frederick P. Brooks Jr., "No Silver Bullet: Essence and Accidents of Software Engineering"](https://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
+- [Brian W. Kernighan and Rob Pike, *The Unix Programming Environment*](https://9p.io/cm/cs/upe/)

@@ -109,15 +109,7 @@
 
 **名前をつけるとは、まだ見ぬ読み手に、理解する自由を贈ることだ。**
 
----
-
-### この章の手がかり
-
-- 人: ドナルド・クヌース（Donald E. Knuth）、マーティン・ファウラー（Martin Fowler）。コードを機械への命令だけでなく、人に伝わる文章として捉えなおした。
-- 言葉: コメント。いらないのではなく、役割が違う。「何を」は名前とコードに、「なぜ」はコメントに寄せると整理しやすい。
-- 次に読むなら: まず付録の用語集でコメントとリファクタリングを確認し、その後に SICP や Fowler の本へ進むとつながる。
-
----
+ドナルド・クヌース（Donald E. Knuth）やマーティン・ファウラー（Martin Fowler）が繰り返し押していたのも、その見方だった。コードを機械への命令だけでなく、人に伝わる文章として見ること。コメントも、いらないのではなく役割が違う。「何を」は名前とコードに、「なぜ」はコメントに寄せると考えると整理しやすい。ここを自分でも確かめたくなったら、付録の用語集でコメントとリファクタリングを見てから、SICP や Fowler の本へ進むと腹に落ちやすい。
 
 読めるコードができた。あなたは、半年後も、その中身をたどれる。
 
@@ -127,4 +119,10 @@
 
 どうせ、仕様は変わる。その前提に、どう備えるのか。
 
-その話は、次の章で。
+その話は、[次の章](../part2/chapter3.md)で。
+
+## 参考文献
+
+- [Donald E. Knuth, "Literate Programming"](https://cs.stanford.edu/~knuth/lp.html)
+- [Harold Abelson and Gerald Jay Sussman, *Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/9780262510875/structure-and-interpretation-of-computer-programs/)
+- [Martin Fowler, *Refactoring*](https://martinfowler.com/books/refactoring.html)

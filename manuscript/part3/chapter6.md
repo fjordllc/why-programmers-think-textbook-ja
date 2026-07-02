@@ -91,15 +91,7 @@
 
 **オープンソースとは、直し、見て、配る――その自由そのものだ。**
 
----
-
-### この章の手がかり
-
-- 人: リチャード・ストールマン（Richard Stallman）、リーナス・トーバルズ（Linus Torvalds）。自由を理念として掲げた人と、それを大規模な実用へ押し広げた人。
-- 言葉: フリーソフトウェア / オープンソース。重なる部分は大きいが、強調点は少し違う。まずは「無料」より「自由」が先だと押さえるとよい。用語集の GNU もあわせて見ると追いやすい。
-- 次に読むなら: 付録の用語集で GNU とオープンソースを見てから、Stallman や Raymond の文章に進むと、立場の違いが追いやすい。
-
----
+リチャード・ストールマン（Richard Stallman）とリーナス・トーバルズ（Linus Torvalds）が、それぞれ別の仕方で押し広げたのも、その自由だった。フリーソフトウェアとオープンソースは重なる部分が大きいが、強調点は少し違う。まずは「無料」より「自由」が先だと押さえると、この章の話を追いやすい。用語集の GNU とオープンソースを見てから Stallman や Raymond の文章に進むと、その違いもたどりやすい。
 
 こうして、プログラマーたちは、自由に作り、自由に配れる世界を手に入れた。
 
@@ -107,4 +99,10 @@
 
 なぜ、その議論は、終わらないのか。
 
-その話は、次の章で。
+その話は、[次の章](../part4/chapter7.md)で。
+
+## 参考文献
+
+- [Richard Stallman, *Free Software, Free Society*](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
+- [Sam Williams, *Free as in Freedom*](https://www.oreilly.com/openbook/freedom/)
+- [Eric S. Raymond, *The Cathedral and the Bazaar*](http://www.catb.org/~esr/writings/cathedral-bazaar/)

@@ -93,18 +93,16 @@
 
 **テストとは、明日も、来年も、このコードに触れ続けられる――という自由だ。**
 
----
-
-### この章の手がかり
-
-- 人: マーガレット・ハミルトン（Margaret Hamilton）、ケント・ベック（Kent Beck）、エドガー・ダイクストラ（Edsger W. Dijkstra）。信頼、変更、証明の限界を別々の角度から示した。
-- 言葉: テスト。万能の保証書ではないが、変更したときにすぐ異変へ気づくための仕組みとして強い。
-- 次に読むなら: 参考文献の Myers と Beck を見ると、「なぜテストを書くのか」が作法より先に理解しやすい。
-
----
+マーガレット・ハミルトン（Margaret Hamilton）、ケント・ベック（Kent Beck）、エドガー・ダイクストラ（Edsger W. Dijkstra）が、それぞれ別の角度から見ていたのも、信頼、変更、証明の限界だった。テストは万能の保証書ではない。けれど、変更したときにすぐ異変へ気づく仕組みとして、とても強い。作法より先に「なぜテストを書くのか」を考えたければ、参考文献の Myers や Beck を辿ると理解しやすい。
 
 明日も触れる自由を、あなたは手に入れた。
 
 だが、コードはもう、一人で抱えるには大きすぎる。その自由を、大勢で、どう信頼し合うのか。
 
-その話は、次の章で。
+その話は、[次の章](../part3/chapter5.md)で。
+
+## 参考文献
+
+- [Glenford J. Myers, *The Art of Software Testing*](https://www.wiley.com/en-us/The+Art+of+Software+Testing%2C+3rd+Edition-p-9781118031964)
+- [Margaret Hamilton, "Computer Gotchas"](https://www.universal-publishers.com/9781581125054/computer-gotchas/)
+- [Edsger W. Dijkstra, *Notes on Structured Programming*](https://www.cs.utexas.edu/~EWD/transcriptions/EWD02xx/EWD249.html)

@@ -91,15 +91,7 @@
 
 **レビューとは、コードを一人の記憶から解き放つ――という自由だ。**
 
----
-
-### この章の手がかり
-
-- 人: マイケル・ファガン（Michael E. Fagan）。レビューやインスペクションを、属人的な善意ではなく手法として整えた。
-- 言葉: プルリクエスト。変更を提案として出し、読んで、話し合ってから取り込むための流れ。
-- 次に読むなら: GitHub の Pull Requests の文書を見ると、この章の話がいまの開発現場でどう日常化しているかが見えやすい。
-
----
+マイケル・ファガン（Michael E. Fagan）が整えたのも、レビューやインスペクションを属人的な善意ではなく、手法として扱う考え方だった。いまその流れをいちばん想像しやすいのが、プルリクエストという形だ。変更を提案として出し、読んで、話し合ってから取り込む。いまの開発現場でこの話がどう回っているかは、GitHub の Pull Requests の文書を見るとイメージしやすい。
 
 見せ合うことで、コードは、チームみんなのものになった。
 
@@ -107,4 +99,10 @@
 
 無料で公開して、いったい何の得があるのか。
 
-その話は、次の章で。
+その話は、[次の章](chapter6.md)で。
+
+## 参考文献
+
+- [Michael E. Fagan, "Design and Code Inspections to Reduce Errors in Program Development"](https://ieeexplore.ieee.org/document/5388086)
+- [Karl E. Wiegers, *Peer Reviews in Software*](https://www.informit.com/store/peer-reviews-in-software-a-practical-guide-9780201734850)
+- [GitHub Docs, Pull Requests](https://docs.github.com/pull-requests)

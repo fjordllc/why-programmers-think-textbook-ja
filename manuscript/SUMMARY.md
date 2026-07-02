@@ -22,4 +22,3 @@
 - [付録 年表](appendix/timeline.md)
 - [付録 用語集](appendix/glossary.md)
 - [付録 読書ガイド](appendix/reading-guide.md)
-- [付録 参考文献](appendix/references.md)

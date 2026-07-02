@@ -86,15 +86,7 @@
 
 **設計とは、最初にすべてを決めなくていい――という自由だ。**
 
----
-
-### この章の手がかり
-
-- 人: ケント・ベック（Kent Beck）、ウォード・カニンガム（Ward Cunningham）、マーティン・ファウラー（Martin Fowler）。変化を避けるのでなく、変化に耐える作り方を言葉にした。
-- 言葉: リファクタリング。外から見た動きを変えずに内側を整えること。作り直しとは別物だ。
-- 次に読むなら: 付録の用語集でアジャイルとリファクタリングを見てから、Beck と Fowler の本に進むと誤解が少ない。
-
----
+ケント・ベック（Kent Beck）、ウォード・カニンガム（Ward Cunningham）、マーティン・ファウラー（Martin Fowler）が言葉にしたのは、変化を避けるのでなく、変化に耐える作り方だった。とくにリファクタリングは、外から見た動きを変えずに内側を整えることだと押さえておくと、作り直しとの違いを取り違えにくい。ここを誤解なく辿るなら、付録の用語集でアジャイルとリファクタリングを見てから、Beck と Fowler の本に進むのがいい。
 
 変わってもいいように作る。言うのは簡単だ。
 
@@ -102,4 +94,10 @@
 
 完成したはずのコードに、それでも手を入れ続けるための、もう一つの備えがいる。
 
-その話は、次の章で。
+その話は、[次の章](chapter4.md)で。
+
+## 参考文献
+
+- [Kent Beck, *Extreme Programming Explained*](https://www.informit.com/store/extreme-programming-explained-embrace-change-9780321278654)
+- [Martin Fowler, *Refactoring*](https://martinfowler.com/books/refactoring.html)
+- [Ward Cunningham, "The WyCash Portfolio Management System"](https://c2.com/doc/oopsla89/paper.html)
