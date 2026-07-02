@@ -53,6 +53,19 @@ mdbook serve --open   # 編集しながらブラウザで確認
 mdbook build          # book/ に静的サイトを生成
 ```
 
+## リンクチェック
+
+[`mdbook-linkcheck`](https://github.com/Michael-F-Bryan/mdbook-linkcheck) を使う。
+
+```sh
+scripts/check-links.sh          # 書籍内リンクを厳格に確認
+scripts/check-links.sh web      # 外部リンクも確認（警告扱い）
+```
+
+- `internal` は日常の確認用。書籍内リンクや相対リンクの崩れを失敗として扱う。
+- `web` は公開前の確認用。外部サイトの一時的な不調で止まりすぎないよう、警告を出しつつ全体を見る。
+- 初回だけ `cargo install mdbook-linkcheck` が必要。
+
 ## ライセンス
 
 本文・コードともに MIT License（[LICENSE](LICENSE)）。
